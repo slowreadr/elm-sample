@@ -1,2 +1,2 @@
-# elm-sample
-sample elm app as gh-page
+# elm-starter
+starter for elm projects
